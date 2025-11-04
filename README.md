@@ -1,4 +1,4 @@
-# BobaQuarium (ARCHIVE)
+# BobaQuarium
 
 ## Play the final game build here! - https://justwiz.itch.io/bobaquarium
 
